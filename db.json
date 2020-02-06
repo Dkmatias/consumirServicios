@@ -1,0 +1,19 @@
+{
+"users"[
+{"id": 1, "name": "Kevin Matias", "username": "kmatias", "email": "kmatias137@gmail.com"},
+{"id": 2, "name": "Mindi Matias", "username": "Minmat", "email": "Mindi@gmail.com"},
+{"id": 3, "name": "Leanne Graham", "username": "Graham", "email": "leane@gmail.com"}
+],
+  "posts": [
+    { "id": 1, "title": "Que piensas sobre la Teoria de cuerdas", "body": "Las Matematicas no es lo mio", "userId": 1 },
+    { "id": 2, "title": "¿Quer harias despues de morir?", "body": "Jugaria con la muerte", "userId": 2 },
+    { "id": 3, "title": "Dime algo sobre el amor", "body": "ama sin medidas, no limites ese sentimiento por cobardia", "userId":3 }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
