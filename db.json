@@ -6,7 +6,7 @@
 ],
   "posts": [
     { "id": 1, "title": "Que piensas sobre la Teoria de cuerdas", "body": "Las Matematicas no es lo mio", "userId": 1 },
-    { "id": 2, "title": "¿Quer harias despues de morir?", "body": "Jugaria con la muerte", "userId": 2 },
+    { "id": 2, "title": "¿Que harias despues de morir?", "body": "Jugaria con la muerte", "userId": 2 },
     { "id": 3, "title": "Dime algo sobre el amor", "body": "ama sin medidas, no limites ese sentimiento por cobardia", "userId":3 }
   ],
   "comments": [
