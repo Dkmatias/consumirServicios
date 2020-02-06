@@ -1,5 +1,5 @@
 {
-"users"[
+"users":[
 {"id": 1, "name": "Kevin Matias", "username": "kmatias", "email": "kmatias137@gmail.com"},
 {"id": 2, "name": "Mindi Matias", "username": "Minmat", "email": "Mindi@gmail.com"},
 {"id": 3, "name": "Leanne Graham", "username": "Graham", "email": "leane@gmail.com"}
